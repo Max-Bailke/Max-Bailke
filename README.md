@@ -25,3 +25,4 @@ Use this link to add stats... https://github.com/ryo-ma/github-profile-trophy
 - ⚡ Fun fact: ... I Golf and I'm really good. 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Max-Bailke)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
