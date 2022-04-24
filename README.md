@@ -13,5 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Use this link to add stats... https://github.com/ryo-ma/github-profile-trophy
 -->
+- 🔭 I’m currently working on ... Personal Projects only. 
+- 🌱 I’m currently learning ... HTML, CSS and JavaScript for Web Dev. 
+- 👯 I’m looking to collaborate on ... React Projects. 
+- 💬 Ask me about ... My Step Dad. He's an awesome programmer. https://github.com/rickmansfield
+- 📫 How to reach me: ... impossible. 
+- 😄 Pronouns: ... Are you kidding
+- ⚡ Fun fact: ... I Golf and I'm really good. 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Max-Bailke)](https://github.com/ryo-ma/github-profile-trophy)
