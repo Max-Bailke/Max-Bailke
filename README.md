@@ -1,3 +1,4 @@
+# About Max Bailke
 ### Hi there 👋
 
 
@@ -24,5 +25,16 @@ Use this link to add stats... https://github.com/ryo-ma/github-profile-trophy
 - 😄 Pronouns: ... Are you kidding
 - ⚡ Fun fact: ... I Golf and I'm really good. 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Max-Bailke)](https://github.com/ryo-ma/github-profile-trophy)
+## Skills:
+### FRONTEND: 
+-  HTML, CSS, Javascript, RESTful API Design, 
+### BACKEND:
+- I'm working on this now
+### ADDITIONAL SKILLS:
+- Agile Project Management (Sprint, Scum, Kanban, User Stories), Algorithms, Architecture, Debugging, Deployment, Visual Studio Code & Visual Studio IDE's.
+
+
+## Statistics
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Max-Bailke)](https://github.com/ryo-ma/github-profile-trophy) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
