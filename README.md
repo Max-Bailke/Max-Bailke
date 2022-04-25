@@ -36,5 +36,7 @@ Use this link to add stats... https://github.com/ryo-ma/github-profile-trophy
 
 ## Statistics
 <p align="center"><img align="center" src="https://buff.ly/3LfMjbL" alt="Max Bailke Putting" /></p>
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Max-Bailke)](https://github.com/ryo-ma/github-profile-trophy) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center"> <a href="https://github.com/Max-Bailke/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Max-Bailke&theme=darkhub&row=2&column=3" alt="Rick's GitHub Trophy Status"/></a></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Max-Bailke&show_icons=true&locale=en&layout=compact" alt="Max-Bailke most used languages" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Max-Bailke&show_icons=true&locale=en" alt="Max-Bailke" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Max-Bailke&" alt="Max-Bailke" /></p>
