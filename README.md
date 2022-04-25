@@ -35,6 +35,6 @@ Use this link to add stats... https://github.com/ryo-ma/github-profile-trophy
 
 
 ## Statistics
-<p align="center"><img align="center" src="https://1drv.ms/u/s!AvkgnNRg8JpJzcgoEcnt8-zMlgFl-A" alt="Rick and Sara Mansfield" /></p>
+<p align="center"><img align="center" src="https://buff.ly/3LfMjbL" alt="Max Bailke Putting" /></p>
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Max-Bailke)](https://github.com/ryo-ma/github-profile-trophy) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
