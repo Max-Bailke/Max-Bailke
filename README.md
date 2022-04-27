@@ -22,7 +22,6 @@ Use this link to add stats... https://github.com/ryo-ma/github-profile-trophy
 - 👯 I’m looking to collaborate on ... React Projects. 
 - 💬 Ask me about ... My Step Dad. He's an awesome programmer. https://github.com/rickmansfield
 - 📫 How to reach me: ... impossible. 
-- 😄 Pronouns: ... Are you kidding
 - ⚡ Fun fact: ... I Golf and I'm really good. 
 
 ## Skills:
