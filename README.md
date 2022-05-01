@@ -34,7 +34,10 @@ Use this link to add stats... https://github.com/ryo-ma/github-profile-trophy
 
 
 ## Statistics
-<p align="center"> <a href="https://github.com/Max-Bailke/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Max-Bailke&theme=darkhub&row=2&column=3" alt="Rick's GitHub Trophy Status"/></a></p>
+<!-- <p align="center"><img align="center" src="https://buff.ly/3LPplsp" alt="Max Bailke" /></p>  -->
+<!-- Max, the src code used on that picture was a "buffered" embed code. To add a photo you go to one drive and right click on the image and select "share" but you want to "generate an embed code." The code will be long. So you need to bookmark a site that converts long code to a buffered short code. that is why the image has "buff." in it. To prevent having to constantly rebuffer an image or use the long code "comment out the code" unless you mean to permiantly discard the buffered version.  -->
+<p align="center"><img align="center" src="https://buff.ly/3LPplsp" alt="Max Bailke" /></p>
+<p align="center"> <a href="https://github.com/Max-Bailke/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Max-Bailke&theme=darkhub&row=2&column=3" alt="Max's GitHub Trophy Status"/></a></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Max-Bailke&show_icons=true&locale=en&layout=compact" alt="Max-Bailke most used languages" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Max-Bailke&show_icons=true&locale=en" alt="Max-Bailke" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Max-Bailke&" alt="Max-Bailke" /></p>
