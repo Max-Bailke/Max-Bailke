@@ -21,7 +21,7 @@ Use this link to add stats... https://github.com/ryo-ma/github-profile-trophy
 - 🌱 I’m currently learning ... HTML, CSS and JavaScript for Web Dev. 
 - 👯 I’m looking to collaborate on ... React Projects. 
 - 💬 Ask me about ... My Step Dad. He's an awesome programmer. https://github.com/rickmansfield
-- ⚡ Fun fact: ... I play Golf and I'm really good. 
+- ⚡ Fun fact: ... I love to play Golf and I'm really good. 
 
 ## Skills:
 ### FRONTEND: 
